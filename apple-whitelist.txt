@@ -1,0 +1,25 @@
+! Apple / iCloud / ScreenTime Whitelist for AdGuard
+! Maintainer: Marcel
+! Purpose: Ensure ScreenTime & Family Sharing Sync
+! Last Update: 2026-01-28
+
+@@||apple.com^
+@@||icloud.com^
+@@||icloud-content.com^
+@@||me.com^
+@@||mzstatic.com^
+@@||akadns.net^
+
+@@||family.apple.com^
+@@||gdmf.apple.com^
+@@||screen-time.apple.com^
+@@||configuration.apple.com^
+
+@@||p01-keyvalueservice.icloud.com^
+@@||p02-keyvalueservice.icloud.com^
+@@||p03-keyvalueservice.icloud.com^
+@@||p04-keyvalueservice.icloud.com^
+
+@@||gateway.icloud.com^
+@@||setup.icloud.com^
+@@||push.apple.com^
